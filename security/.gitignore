@@ -1,0 +1,4 @@
+# Bao ve du lieu nhay cam
+.env
+node_modules/
+*. log
